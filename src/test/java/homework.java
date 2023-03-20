@@ -17,7 +17,7 @@ public class homework {
    }
 
    @Test
-   void SoftAssertions() {
+   void softAssertions() {
 
       open("https://github.com/selenide/selenide");
 
